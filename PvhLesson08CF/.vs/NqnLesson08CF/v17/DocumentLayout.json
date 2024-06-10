@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\controllers\\pvhcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\controllers\\pvhcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\controllers\\pvhbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\controllers\\pvhbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|c:\\users\\laptop lenovo\\source\\repos\\nqnlesson08cf\\nqnlesson08cf\\nqnlesson08cf\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\views\\pvhcategory\\pvhcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\views\\pvhcategory\\pvhcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\views\\pvhcategory\\pvhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\views\\pvhcategory\\pvhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\views\\pvhbooks\\pvhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\views\\pvhbooks\\pvhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\views\\pvhbooks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\views\\pvhbooks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\views\\pvhbooks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\views\\pvhbooks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\views\\pvhbooks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\views\\pvhbooks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\views\\pvhbooks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\views\\pvhbooks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\views\\home\\pvhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\views\\home\\pvhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\models\\pvhbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\models\\pvhbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\models\\pvhbookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\models\\pvhbookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\nqnlesson08cf\\models\\pvhcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C49781-0301-43B5-A25A-E6F9A6A1180B}|NqnLesson08CF\\NqnLesson08CF.csproj|solutionrelative:nqnlesson08cf\\models\\pvhcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PvhIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Views\\PvhCategory\\PvhIndex.cshtml",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\Views\\PvhCategory\\PvhIndex.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Views\\PvhCategory\\PvhIndex.cshtml",
+              "RelativeToolTip": "NqnLesson08CF\\Views\\PvhCategory\\PvhIndex.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:04:34.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PvhIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Views\\Pvhbooks\\PvhIndex.cshtml",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\Views\\Pvhbooks\\PvhIndex.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Views\\Pvhbooks\\PvhIndex.cshtml",
+              "RelativeToolTip": "NqnLesson08CF\\Views\\Pvhbooks\\PvhIndex.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:04:00.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "NqnLesson08CF\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:58:12.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "NqnLesson08CF\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:58:33.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "NqnLesson08CF\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:59:03.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NqnLesson08CF\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:59:26.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PvhbooksController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Controllers\\PvhbooksController.cs",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\Controllers\\PvhbooksController.cs",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Controllers\\PvhbooksController.cs",
+              "RelativeToolTip": "NqnLesson08CF\\Controllers\\PvhbooksController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:59:50.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PvhCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Controllers\\PvhCategoryController.cs",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\Controllers\\PvhCategoryController.cs",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Controllers\\PvhCategoryController.cs",
+              "RelativeToolTip": "NqnLesson08CF\\Controllers\\PvhCategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:00:01.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PvhCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Views\\PvhCategory\\PvhCreate.cshtml",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\Views\\PvhCategory\\PvhCreate.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Views\\PvhCategory\\PvhCreate.cshtml",
+              "RelativeToolTip": "NqnLesson08CF\\Views\\PvhCategory\\PvhCreate.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:05:07.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Views\\Web.config",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Views\\Web.config",
+              "RelativeToolTip": "NqnLesson08CF\\Views\\Web.config",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-10T13:05:26.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Global.asax.cs",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Global.asax.cs",
+              "RelativeToolTip": "NqnLesson08CF\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:05:42.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Web.config",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\Web.config",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Web.config",
+              "RelativeToolTip": "NqnLesson08CF\\Web.config",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-10T13:06:03.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Views\\Pvhbooks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\Views\\Pvhbooks\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Views\\Pvhbooks\\Edit.cshtml",
+              "RelativeToolTip": "NqnLesson08CF\\Views\\Pvhbooks\\Edit.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:03:41.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Views\\Pvhbooks\\Details.cshtml",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\Views\\Pvhbooks\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Views\\Pvhbooks\\Details.cshtml",
+              "RelativeToolTip": "NqnLesson08CF\\Views\\Pvhbooks\\Details.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:03:28.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Views\\Pvhbooks\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\Views\\Pvhbooks\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Views\\Pvhbooks\\Delete.cshtml",
+              "RelativeToolTip": "NqnLesson08CF\\Views\\Pvhbooks\\Delete.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:03:04.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Views\\Pvhbooks\\Create.cshtml",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\Views\\Pvhbooks\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Views\\Pvhbooks\\Create.cshtml",
+              "RelativeToolTip": "NqnLesson08CF\\Views\\Pvhbooks\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:02:00.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PvhAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Views\\Home\\PvhAbout.cshtml",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\Views\\Home\\PvhAbout.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Views\\Home\\PvhAbout.cshtml",
+              "RelativeToolTip": "NqnLesson08CF\\Views\\Home\\PvhAbout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:01:41.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PvhBookStore.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Models\\PvhBookStore.cs",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\Models\\PvhBookStore.cs",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Models\\PvhBookStore.cs",
+              "RelativeToolTip": "NqnLesson08CF\\Models\\PvhBookStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:56:51.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PvhCategory.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Models\\PvhCategory.cs",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\Models\\PvhCategory.cs",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Models\\PvhCategory.cs",
+              "RelativeToolTip": "NqnLesson08CF\\Models\\PvhCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:56:39.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Pvhbook.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Models\\Pvhbook.cs",
+              "RelativeDocumentMoniker": "NqnLesson08CF\\Models\\Pvhbook.cs",
+              "ToolTip": "C:\\Users\\LAPTOP LENOVO\\source\\repos\\NqnLesson08CF\\NqnLesson08CF\\NqnLesson08CF\\Models\\Pvhbook.cs",
+              "RelativeToolTip": "NqnLesson08CF\\Models\\Pvhbook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:55:27.498Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

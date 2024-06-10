@@ -1,0 +1,58 @@
+﻿@model PvhLesson08CF.Models.Pvhbook
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Pvhbook</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.PvhTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PvhTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PvhAuthor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PvhAuthor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PvhYear)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PvhYear)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PvhPicture)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PvhPicture)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PvhCategoryId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PvhCategoryId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PvhbookId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
